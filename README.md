@@ -131,6 +131,3 @@ The second image provides the result for `Malicious` network packet.
     - Windows 11 (Core OS)
     - Kali Linux (Virtualized Attacker OS)
     - Ubuntu (Virtualized Victim OS)
-
-
- 
