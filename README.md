@@ -22,6 +22,10 @@ Intrusion Detection System
 > * Some of the features have not been discussed due to privacy and  restrictions policies.
 
 <br>
+<p align="center">
+  <img src="./images/finalvideo.gif" width="700" height="400" />
+</p>
+
 
 ## Introduction 
 
