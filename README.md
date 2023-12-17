@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./GROUP_5/head.png" alt="Markdownify" width="500"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./images/head.png" alt="404" width="700"></a>
   <br>
 Intrusion Detection System
   <br>
@@ -53,7 +53,7 @@ To explain the research in a manner accessible to a broad audience, it introduce
 
 The following image provides an overview of the flow and implementation of work:
 <p align = "center">
-    <img src="./GROUP_5/workflow.png" alt="Markdownify" width="500"></a>
+    <img src="./images/workflow.png" alt="workflow" width="700"></a>
 </p>
 
 This system's processing methodology steps: 
@@ -110,12 +110,12 @@ The dataset used in this scenario is `CICIDS-2017` with a mixture of some live g
 
 The first image provides the result for `Benign` network packet.
 <p align="center">
-<img src="./GROUP_5/normal.png" alt="Markdownify" width="500"></p>
+<img src="./images/normal.png" alt="Normal" width="600"></p>
  
 
 The second image provides the result for `Malicious` network packet.
 <p align="center">
-<img src="./GROUP_5/malicious.png" alt="Markdownify" width="500"></p>
+<img src="./images/malicious.png" alt="normal" width="600"></p>
 
 ## Software Usage
 
@@ -128,10 +128,5 @@ The second image provides the result for `Malicious` network packet.
     - Kali Linux (Virtualized Attacker OS)
     - Ubuntu (Virtualized Victim OS)
 
-## License
-
-MIT
-
----
 
  
