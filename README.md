@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./images/head.JPG" alt="404" width="700"></a>
+    <img src="./images/head.JPG" alt="404" width="700">
   <br>
 Intrusion Detection System
   <br>
