@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="./images/head.JPG" alt="404" width="700">
+    <img src="./images/head.png" alt="404" width="700">
   <br>
 Intrusion Detection System
   <br>
